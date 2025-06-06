@@ -166,11 +166,3 @@ node your-script.js --envManger
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## License
-
-[Add your license information here]
-
-## Support
-
-For issues or questions, please [create an issue](link-to-your-issues) or contact the development team.
